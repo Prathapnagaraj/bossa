@@ -1,0 +1,39 @@
+   component name                                     |   Number of component   |   
+--------------------------------------------------------------------------------
+1. ARDUINO UNO (Rev-3)                                |         1
+
+2. 16x2 CHARACTER LCD				      |		1
+
+3. MOSFETS (IRF9530, IRF540 or equivalent)	      |	
+              IRF9530, 				      |         1
+
+	      IRF540				      |		1
+
+4.TRANSISTORS(2N3904 or equivalent NPN transistors )  |		
+		2N3904                                |         1
+		2N2222				      |		1
+
+5. RESISTORS (10k ,4.7k,1k,330ohm)		      | 
+	10k						|	2
+	100k						|	2
+	20k						|	2
+	1K							2
+	330ohm						|	2
+
+6. CAPACITOR(100uF,35v)				      |		1
+
+7. DIODE(IN4007)				      |		1
+                                                        
+8. ZENER DIODE 11v (1N4741A)			      |		1
+
+9. LEDS(Red and Green)				      |		2
+
+10. FUSES ( 5A) AND FUSE HOLDER			      |		2
+
+11. BREAD BOARD					      |		1
+
+12.PERFORATED BOARD				      |		1
+
+13. JUMPER WIRES				      |		1 pack
+
+14. PROJECT BOX					      |		1
